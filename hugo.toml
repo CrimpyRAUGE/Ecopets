@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Eco Pet Guide"
+theme = "ananke"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "You"
+  description = "Eco-friendly pet products & guides"
