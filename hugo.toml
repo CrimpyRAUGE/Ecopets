@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.ecopetguide.com/"
 languageCode = "en-us"
 title = "Eco Pet Guide"
 theme = "ananke"
