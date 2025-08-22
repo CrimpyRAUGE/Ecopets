@@ -2,17 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Eco Pet Guide</title>
-    <link>/posts/</link>
+    <link>https://www.ecopetguide.com/posts/</link>
     <description>Recent content in Posts on Eco Pet Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Aug 2025 23:35:07 +0000</lastBuildDate>
+    <atom:link href="https://www.ecopetguide.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eco Pet Grooming Guide</title>
+      <link>https://www.ecopetguide.com/posts/eco-pet-grooming-guide/</link>
+      <pubDate>Thu, 21 Aug 2025 23:35:07 +0000</pubDate>
+      <guid>https://www.ecopetguide.com/posts/eco-pet-grooming-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sustainable Cat Toys</title>
+      <link>https://www.ecopetguide.com/posts/sustainable-cat-toys/</link>
+      <pubDate>Thu, 21 Aug 2025 23:35:07 +0000</pubDate>
+      <guid>https://www.ecopetguide.com/posts/sustainable-cat-toys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eco Friendly Dog Collars</title>
+      <link>https://www.ecopetguide.com/posts/eco-friendly-dog-collars/</link>
+      <pubDate>Thu, 21 Aug 2025 23:35:06 +0000</pubDate>
+      <guid>https://www.ecopetguide.com/posts/eco-friendly-dog-collars/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Welcome to Eco Pet Guide</title>
-      <link>/posts/welcome/</link>
+      <link>https://www.ecopetguide.com/posts/welcome/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/welcome/</guid>
+      <guid>https://www.ecopetguide.com/posts/welcome/</guid>
       <description>&lt;p&gt;We’ll publish honest, research-backed guides to sustainable collars, toys, grooming and more. Bookmark us and check back for weekly updates.&lt;/p&gt;</description>
     </item>
   </channel>

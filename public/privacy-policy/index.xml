@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy Policy on Eco Pet Guide</title>
-    <link>/privacy-policy/</link>
+    <link>https://www.ecopetguide.com/privacy-policy/</link>
     <description>Recent content in Privacy Policy on Eco Pet Guide</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ecopetguide.com/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
