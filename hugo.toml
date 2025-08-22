@@ -9,3 +9,21 @@ theme = "ananke"
 [params]
   author = "You"
   description = "Eco-friendly pet products & guides"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    name = "Disclosure"
+    url = "/affiliate-disclosure/"
+    weight = 30
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 40
